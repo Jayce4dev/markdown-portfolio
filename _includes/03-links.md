@@ -1,1 +1,1 @@
-![gotomypage] (https://github.com/jayce4dev)
+[gotomypage] (https://github.com/jayce4dev)
