@@ -1,1 +1,1 @@
-[gotomypage] (https://google.com)
+[gotomypage](https://google.com)
